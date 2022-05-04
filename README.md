@@ -874,13 +874,19 @@
 * [mpo](https://github.com/donatj/mpo) :  ` MPO 3D` 照片解码与转换工具.
 * [picfit](https://github.com/thoas/picfit) :  一个使用 `Go `语言编写的图片缩放服务器
 * [pt](https://github.com/fogleman/pt) :  光线追踪引擎
-* [resize](https://github.com/nfnt/resize) :  使用 `Go`语言编写的具有常见差值功能的图片缩放工具
+* [resize](https://github.com/nfnt/resize) :  使用 `Go`语言编写的具有常见差值功能的图片缩放工具，已不维护了
 * [rez](https://github.com/bamiaux/rez) :  纯 `Go` 及` SIMD `实现的图像缩放库
 * [smartcrop](https://github.com/muesli/smartcrop) :   - 为任意图片进行剪裁的工具
 * [steganography](https://github.com/auyer/steganography) :  用于`LSB`隐写的纯`Go`库。
 * [stegify](https://github.com/DimitarPetrov/stegify) :  用于`LSB`隐写的`Go`工具,能够隐藏图像中的任何文
 * [svgo](https://github.com/ajstarks/svgo) :  用于生成 `SVG `的` Go `语言库
 * [tga](https://github.com/ftrvxmtrx/tga) :  `tga `是一个` TARGA `图像格式解码/编码器
+* [zhang-jianqiang/go-qrcode](https://github.com/zhang-jianqiang/go-qrcode) :  用于生成二维码，从`skip2/go-qrcode`修改而来，支持logo、空白、底部文字设置
+* [skip2/go-qrcode](https://github.com/skip2/go-qrcode) :  用于生成二维码，已不维护了
+* [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) :  用于生成二维码，支持logo、空白、形状设置
+* [boombuler/barcode](https://github.com/boombuler/barcode) :  简单生成二维码
+* [tuotoo/qrcode](https://github.com/tuotoo/qrcode) :  解析二维码
+* [zhang-jianqiang/gg](https://github.com/zhang-jianqiang/gg) :  使用` Go `编写的 `2D `渲染程序，fork自`fogleman/gg`，添加了通过byte加载字体文件的方法
 ## 物联网(IOT)
 * [connectordb](https://github.com/connectordb/connectordb) :  针对`iot`的开源物联网平台
 * [devices](https://github.com/goiot/devices) :  管理物联网设备的套件库
