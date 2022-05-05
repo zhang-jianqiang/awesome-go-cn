@@ -92,7 +92,7 @@
         - [代码分析](#代码分析)
     - [编辑器插件](#编辑器插件)
     - [Go  代码生成工具](#go--代码生成工具)
-    - [Go工具](#go工具)
+    - [Go工具](#go-工具)
     - [软件包](#软件包)
         - [devops 工具](#devops-工具)
         - [其他软件库和软件包](#其他软件库和软件包)
@@ -214,6 +214,7 @@
 * [urfave/cli](https://github.com/urfave/cli) :   简单、快速、有趣的、用于构建 Go 语言命令行程序的软件包。
 * [wlog](https://github.com/dixonwille/wlog) :  简单的日志接口,具有跨平台和并发支持等特性
 * [wmenu](https://github.com/dixonwille/wmenu) :  为命令行程序提供简单的菜单结构选项来提供给用户来进行选择
+* [survey](https://github.com/AlecAivazis/survey) :  支持交互的`cli`库
 ----
 ## 高级控制台UI
 `用于构建控制台应用程序和控制台用户界面的库.`
@@ -1463,6 +1464,7 @@
 * [SFTPGo](https://github.com/drakkan/sftpgo) :   功能齐全、高度可配置的`SFTP`服务器,可选择支持`FTP/S和WebDAV`。它可以为本地文件系统和云存储后端服务,如S3和谷歌云存储。
 * [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) :   简单轻量级的`provider`,它展示了`JWTs`,支持登录、密码重置（通过邮件）和用户管理。
 * [Trickster](https://github.com/tricksterproxy/trickster) : `HTTP`反向代理缓存和时间序列加速器。
+* [ServiceGroup](https://github.com/zeromicro/go-zero/tree/master/core/service) : go-zero框架中的代码，进程内优雅管理多个服务，不建议整个项目拉取，可以把这部分代码复制出去自己独立写个工具类。
 --- 
 ## 流处理
 `流式数据处理和响应式编程库`
@@ -1970,6 +1972,7 @@
 * [vox](https://github.com/aisk/vox) : `Golang`网络框架,灵感来自`Koa`。
 * [WebGo](https://github.com/bnkamalesh/webgo) :  构建`Web`应用的微服务框架；具有处理程序链、中间件和上下文注入功能。具有标准库兼容的`HTTP`处理程序（即`http.HandlerFunc`）。
 * [YARF](https://github.com/yarf-framework/yarf) : 微服务框架,用于快速、简单地构建`REST APIs`以及` web` 服务
+* [go-zero](https://github.com/zeromicro/go-zero) : 微服务框架,集成了各种工程实践的`web`和`rpc`框架
 ----
 ## 中间件
 ### 中间件
@@ -2105,7 +2108,6 @@
 * [xgen](https://github.com/xuri/xgen) : ` XSD (XML Schema Definition)`  解析器,能够生成`Go/C/Java/Rust/Typescript`代码
 ----
 ## Go 工具
-
 * [colorgo](https://github.com/songgao/colorgo) :  对 Go 命令进行了封装,用于为Go build的输出结果添加颜色
 * [depth](https://github.com/KyleBanks/depth) :  通过分析导入的库,将某个包的依赖关系用树状结构进行显示
 * [gb](https://getgb.io/) :  针对Go语言的项目的构建工具,
