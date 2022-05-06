@@ -214,7 +214,6 @@
 * [urfave/cli](https://github.com/urfave/cli) :   简单、快速、有趣的、用于构建 Go 语言命令行程序的软件包。
 * [wlog](https://github.com/dixonwille/wlog) :  简单的日志接口,具有跨平台和并发支持等特性
 * [wmenu](https://github.com/dixonwille/wmenu) :  为命令行程序提供简单的菜单结构选项来提供给用户来进行选择
-* [survey](https://github.com/AlecAivazis/survey) :  支持交互的`cli`库
 ----
 ## 高级控制台UI
 `用于构建控制台应用程序和控制台用户界面的库.`
@@ -247,6 +246,7 @@
 * [uiprogress](https://github.com/gosuri/uiprogress) ：用于渲染进度条的库 
 * [uitable](https://github.com/gosuri/uitable) :  用于改善命令行中，表格数据可读性的库
 * [yacspin](https://github.com/theckman/yacspin) : 用于终端的`CLi Spinner` 工具包。
+* [survey](https://github.com/AlecAivazis/survey) :  支持交互的`cli`库
 ----
 ## 配置管理 
 `配置解析库`
