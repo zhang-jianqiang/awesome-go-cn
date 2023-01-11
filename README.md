@@ -1273,6 +1273,8 @@
 * [resty](https://github.com/go-resty/resty) :  受`Ruby rest-client` 的启发,为`Go` 设计的简单` HTTP`和`REST`客户端。
 * [rq](https://github.com/ddo/rq) :  `golang`标准客户端的更好的接口封装
 * [sling](https://github.com/dghubble/sling) : 用于创建和发送` API`请求的`Go HTTP`客户端库。
+* [req](https://github.com/imroc/req) : Req 是一个简单易用还带黑魔法的 Go HTTP 客户端，写更少的代码，获得更高的效率。
+* [resty](https://github.com/go-resty/resty) : Simple HTTP and REST client library for Go (inspired by Ruby rest-client)。
 ----
 ### OpenGL
 * [gl](https://github.com/go-gl/gl) : `OpenGL`的`Go`语言接口
